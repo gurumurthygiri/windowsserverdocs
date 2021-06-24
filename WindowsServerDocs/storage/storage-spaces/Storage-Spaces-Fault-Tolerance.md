@@ -165,7 +165,7 @@ This table shows the storage efficiency of dual parity and local reconstruction 
 
 ## <a name="examples"></a>Examples
 
-Unless you have only two servers, we recommend using three-way mirroring and/or dual parity, because they offer better fault tolerance. Specifically, they ensure that all data remains safe and continuously accessible even when two fault domains – with Storage Spaces Direct, that means two servers - are affected by simultaneous failures.
+Unless you have only four servers, we recommend using three-way mirroring and/or dual parity, because they offer better fault tolerance. Specifically, they ensure that all data remains safe and continuously accessible even when two fault domains – with Storage Spaces Direct, that means two servers - are affected by simultaneous failures.
 
 ### Examples where everything stays online
 
